@@ -1,0 +1,28 @@
+{
+  "name": "object-provide",
+  "version": "1.0.0",
+  "description": "Assign object properties conditionally",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollowdoor/object_provide.git"
+  },
+  "keywords": [
+    "object",
+    "inheritance",
+    "objects",
+    "extension"
+  ],
+  "author": "Quentin Engles <hollowdoor99@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hollowdoor/object_provide/issues"
+  },
+  "homepage": "https://github.com/hollowdoor/object_provide#readme"
+}
